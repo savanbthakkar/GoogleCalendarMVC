@@ -1,0 +1,11 @@
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarMvc.deps.json
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarMvc.runtimeconfig.json
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarMvc.runtimeconfig.dev.json
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\obj\Debug\netcoreapp1.1\CalendarMvc.csprojResolveAssemblyReference.cache
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\obj\Debug\netcoreapp1.1\CalendarMvc.AssemblyInfo.cs
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarMvc.dll
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarMvc.pdb
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\obj\Debug\netcoreapp1.1\CalendarMvc.dll
+c:\users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\obj\Debug\netcoreapp1.1\CalendarMvc.pdb
+C:\Users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarAPI.exe
+C:\Users\smiller\documents\visual studio 2017\Projects\CalendarMvc\CalendarMvc\bin\Debug\netcoreapp1.1\CalendarAPI.pdb
