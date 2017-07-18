@@ -3915,7 +3915,7 @@
     "microsoft.entityframeworkcore.tools/1.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CBAZ3BR1+HkcLwWnPjHxklSw6TtwQQjRyqB9JXrCqaa4R5pdebvSJWerKKmN+chQjKVUC3w4Bfd5um03DlVCrA==",
+      "sha512": "sha512-nT63J9eTmK9WvVJASiPt9qbKkgNFhrPkWh9ar/t1c8kMXO969j+GO/PW39NsjfPooE9WuHrCg9vGJMKf4HtzmA==",
       "path": "microsoft.entityframeworkcore.tools/1.1.1",
       "hashPath": "microsoft.entityframeworkcore.tools.1.1.1.nupkg.sha512"
     },

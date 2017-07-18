@@ -5124,7 +5124,7 @@
       ]
     },
     "Microsoft.EntityFrameworkCore.Tools/1.1.1": {
-      "sha512": "CBAZ3BR1+HkcLwWnPjHxklSw6TtwQQjRyqB9JXrCqaa4R5pdebvSJWerKKmN+chQjKVUC3w4Bfd5um03DlVCrA==",
+      "sha512": "nT63J9eTmK9WvVJASiPt9qbKkgNFhrPkWh9ar/t1c8kMXO969j+GO/PW39NsjfPooE9WuHrCg9vGJMKf4HtzmA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.tools/1.1.1",
       "files": [
@@ -10908,10 +10908,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smiller\\Documents\\Visual Studio 2017\\Projects\\CalendarMvc\\CalendarMvc\\CalendarMvc.csproj",
+      "projectUniqueName": "C:\\Users\\smiller\\Source\\Repos\\GoogleCalendarMVC\\CalendarMvc\\CalendarMvc\\CalendarMvc.csproj",
       "projectName": "CalendarMvc",
-      "projectPath": "C:\\Users\\smiller\\Documents\\Visual Studio 2017\\Projects\\CalendarMvc\\CalendarMvc\\CalendarMvc.csproj",
-      "outputPath": "C:\\Users\\smiller\\Documents\\Visual Studio 2017\\Projects\\CalendarMvc\\CalendarMvc\\obj\\",
+      "projectPath": "C:\\Users\\smiller\\Source\\Repos\\GoogleCalendarMVC\\CalendarMvc\\CalendarMvc\\CalendarMvc.csproj",
+      "outputPath": "C:\\Users\\smiller\\Source\\Repos\\GoogleCalendarMVC\\CalendarMvc\\CalendarMvc\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
